@@ -1,0 +1,99 @@
+C:\Users\Samsung\AppData\Local\Temporary Projects\Examen-1613550\bin\Debug\Examen-1613550.exe.config
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\Examen-1613550.exe.config
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\obj\Debug\Examen-1613550.csprojResolveAssemblyReference.cache
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\Examen-1613550.exe
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\Examen-1613550.pdb
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\Mono.Security.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\Npgsql.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\Npgsql.pdb
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\Npgsql.xml
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\de\Npgsql.resources.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\es\Npgsql.resources.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\fi\Npgsql.resources.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\fr\Npgsql.resources.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\ja\Npgsql.resources.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\zh-CN\Npgsql.resources.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\obj\Debug\Examen-1613550.exe
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\obj\Debug\Examen-1613550.pdb
+E:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\bin\Debug\Examen-1613550.exe.config
+E:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\obj\Debug\Examen-1613550.exe
+E:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\obj\Debug\Examen-1613550.pdb
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\bin\Debug\Examen-1613550.exe.config
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\bin\Debug\Examen-1613550.exe
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\bin\Debug\Examen-1613550.pdb
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\bin\Debug\Mono.Security.dll
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\bin\Debug\Npgsql.dll
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\bin\Debug\Npgsql.pdb
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\bin\Debug\Npgsql.xml
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\bin\Debug\de\Npgsql.resources.dll
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\bin\Debug\es\Npgsql.resources.dll
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\bin\Debug\fi\Npgsql.resources.dll
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\bin\Debug\fr\Npgsql.resources.dll
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\bin\Debug\ja\Npgsql.resources.dll
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\bin\Debug\zh-CN\Npgsql.resources.dll
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\obj\Debug\Examen-1613550.exe
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\obj\Debug\Examen-1613550.pdb
+I:\Ing-Sistema\Cursando\PO\Examen-1613550\Examen-1613550\obj\Debug\Examen-1613550.csprojResolveAssemblyReference.cache
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\bin\Debug\Examen-1613550.exe.config
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\bin\Debug\Examen-1613550.exe
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\bin\Debug\Examen-1613550.pdb
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\bin\Debug\Mono.Security.dll
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\bin\Debug\Npgsql.dll
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\bin\Debug\Npgsql.pdb
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\bin\Debug\Npgsql.xml
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\bin\Debug\de\Npgsql.resources.dll
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\bin\Debug\es\Npgsql.resources.dll
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\bin\Debug\fi\Npgsql.resources.dll
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\bin\Debug\fr\Npgsql.resources.dll
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\bin\Debug\ja\Npgsql.resources.dll
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\obj\Debug\Examen-1613550.exe
+D:\Usuarios\Samsung\Desktop\Examen-1613550\Examen-1613550\obj\Debug\Examen-1613550.pdb
+D:\ing_sistema\PA\Examen_ModificadoV2-master\bin\Debug\Examen-1613550.exe.config
+D:\ing_sistema\PA\Examen_ModificadoV2-master\obj\Debug\Examen-1613550.exe
+D:\ing_sistema\PA\Examen_ModificadoV2-master\obj\Debug\Examen-1613550.pdb
+D:\ing_sistema\PA\Examen_ModificadoV2-master\bin\Debug\Examen-1613550.exe
+D:\ing_sistema\PA\Examen_ModificadoV2-master\bin\Debug\Examen-1613550.pdb
+D:\ing_sistema\PA\Examen_ModificadoV2-master\bin\Debug\Npgsql.pdb
+D:\ing_sistema\PA\Examen_ModificadoV2-master\bin\Debug\Npgsql.xml
+D:\ing_sistema\PA\Examen_ModificadoV2-master\bin\Debug\de\Npgsql.resources.dll
+D:\ing_sistema\PA\Examen_ModificadoV2-master\bin\Debug\es\Npgsql.resources.dll
+D:\ing_sistema\PA\Examen_ModificadoV2-master\bin\Debug\fi\Npgsql.resources.dll
+D:\ing_sistema\PA\Examen_ModificadoV2-master\bin\Debug\fr\Npgsql.resources.dll
+D:\ing_sistema\PA\Examen_ModificadoV2-master\bin\Debug\ja\Npgsql.resources.dll
+D:\ing_sistema\PA\Examen_ModificadoV2-master\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\ing_sistema\PA\Examen_ModificadoV2-master\bin\Debug\Npgsql.dll
+I:\Ing-Sistema\Cursando\PO\Examen_ModificadoV2-master\bin\Debug\Examen-1613550.exe.config
+I:\Ing-Sistema\Cursando\PO\Examen_ModificadoV2-master\obj\Debug\Examen-1613550.exe
+I:\Ing-Sistema\Cursando\PO\Examen_ModificadoV2-master\obj\Debug\Examen-1613550.pdb
+D:\ing_sistema\Examen_ModificadoV2-master\bin\Debug\Examen-1613550.exe.config
+D:\ing_sistema\Examen_ModificadoV2-master\obj\Debug\Examen-1613550.exe
+D:\ing_sistema\Examen_ModificadoV2-master\obj\Debug\Examen-1613550.pdb
+D:\ing_sistema\Examen_ModificadoV2-master\bin\Debug\Examen-1613550.exe
+D:\ing_sistema\Examen_ModificadoV2-master\bin\Debug\Examen-1613550.pdb
+D:\ing_sistema\Examen_ModificadoV2-master\bin\Debug\Npgsql.xml
+H:\Ing-Sistema\Cursando\PO\Examen2_Modificado-BD\bin\Debug\Examen-1613550.exe.config
+H:\Ing-Sistema\Cursando\PO\Examen2_Modificado-BD\obj\Debug\Examen-1613550.exe
+H:\Ing-Sistema\Cursando\PO\Examen2_Modificado-BD\obj\Debug\Examen-1613550.pdb
+H:\Ing-Sistema\Cursando\PO\Examen2_Modificado-BD\bin\Debug\Examen-1613550.exe
+H:\Ing-Sistema\Cursando\PO\Examen2_Modificado-BD\bin\Debug\Examen-1613550.pdb
+I:\Ing-Sistema\Cursando\PO\Examen2_Modificado-BD\bin\Debug\Examen-1613550.exe.config
+I:\Ing-Sistema\Cursando\PO\Examen2_Modificado-BD\obj\Debug\Examen-1613550.exe
+I:\Ing-Sistema\Cursando\PO\Examen2_Modificado-BD\obj\Debug\Examen-1613550.pdb
+I:\Ing-Sistema\Cursando\PO\Examen2_Modificado-BD\bin\Debug\Examen-1613550.exe
+I:\Ing-Sistema\Cursando\PO\Examen2_Modificado-BD\bin\Debug\Examen-1613550.pdb
+I:\Ing-Sistema\Cursando\PO\Examen2_Modificado-BD\obj\Debug\Examen-1613550.csprojResolveAssemblyReference.cache
+D:\ing_sistema\PA\Examen2_Modificado-BD\bin\Debug\Examen-1613550.exe.config
+D:\ing_sistema\PA\Examen2_Modificado-BD\obj\Debug\Examen-1613550.exe
+D:\ing_sistema\PA\Examen2_Modificado-BD\obj\Debug\Examen-1613550.pdb
+D:\ing_sistema\PA\Examen2_Modificado-BD\bin\Debug\Examen-1613550.exe
+D:\ing_sistema\PA\Examen2_Modificado-BD\bin\Debug\Examen-1613550.pdb
+D:\ing_sistema\PA\Examen2_Modificado-BD\bin\Debug\Npgsql.dll
+D:\ing_sistema\PA\Examen2_Modificado-BD\bin\Debug\Npgsql.pdb
+D:\ing_sistema\PA\Examen2_Modificado-BD\bin\Debug\Npgsql.xml
+D:\ing_sistema\PA\Examen2_Modificado-BD\bin\Debug\de\Npgsql.resources.dll
+D:\ing_sistema\PA\Examen2_Modificado-BD\bin\Debug\es\Npgsql.resources.dll
+D:\ing_sistema\PA\Examen2_Modificado-BD\bin\Debug\fi\Npgsql.resources.dll
+D:\ing_sistema\PA\Examen2_Modificado-BD\bin\Debug\fr\Npgsql.resources.dll
+D:\ing_sistema\PA\Examen2_Modificado-BD\bin\Debug\ja\Npgsql.resources.dll
+D:\ing_sistema\PA\Examen2_Modificado-BD\bin\Debug\zh-CN\Npgsql.resources.dll
